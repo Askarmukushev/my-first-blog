@@ -1,0 +1,2 @@
+cd djangogirls
+python manage.py runserver
